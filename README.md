@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phanthethanh0209
-- 👀 I’m interested in Java, PHP, Python, C#, C/C++
+- 👀 I’m interested in C# ASP.NET Core, Java, PHP, Python, C/C++
 - 🌱 I’m currently learning at HUIT
 - 📞 Contact me: phanthethanh0209@gmail.com
 <!---
